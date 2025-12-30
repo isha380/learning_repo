@@ -53,3 +53,13 @@ Prompt → Practice → Test → Teach → Repeat.
 (Repeat is the secret: iterative failure + active practice = real skill.)
 If you want, I’ll convert this into a one-page cheat sheet you can pin to your monitor (short checklist + top 5 prompts). Want that?
 
+-------------------------------------------------------------------------------------------
+Got really nice actionable tips for:
+Daily habits:
+![alt text](image-2.png)
+
+Proper way to document learnings:
+![alt text](image.png)
+
+Project that you build:
+![alt text](image-1.png)

@@ -33,7 +33,7 @@ The goal is to **learn IT skills effectively** using ChatGPT and hands-on practi
 
 ---
 
-##  Mantra
+##  Mantra(process i follow)
 
 **Prompt → Practice → Test → Teach → Repeat**  
 This repo helps me follow this mantra every day and steadily improve my skills.
